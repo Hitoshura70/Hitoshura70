@@ -1,3 +1,13 @@
+26/12/2022 - Updated Ozma and Lanselot Intimidators builds, also modified party sample information based on their new RT. Updated the layout on 'More on Magic'.
+26/12/2022 - Added Cursed Swords for Mage Denam and Princess Catiua, fixed the problem with Dark Priest Catiua having Cursed Daggers, added a note on Instill [Element] for Shamans.
+26/12/2022 - Minor fixes, like adding the classes to Lindll and Jeunan to the 10 party sample. Also clarified the Blackmoor triggering conditions on CODA2.
+24/12/2022 - Modified mages builds, now they use generic Cursed daggers instead of sacrificed ones, that's because the A.I. will start stabbing with those.
+24/12/2022 - Added 'Magic is also resisted by the armors bug!' on 'More on Magic' section;
+23/12/2022 - Added a new section 'Why Ogre Set is bad'.
+23/12/2022 - Added a new topic on 'Particularities and issues' about weapons and defenses.
+23/12/2022 - Thanks to the previous discovery, created a section with Why [This Equipment]? in 'Weapons, Armor and Accessories', also remade many item sets on 'The Main Party' and 'The Optional Party Members'.
+23/12/2022 - Corrected the errors on Crushing, Slashing and Piercing protection on equipment on 'Particularities and issues' section;
+23/12/2022 - Added new information on 'Did you know?';
 22/12/2022 - Added 'Did you know?' on 'Particularities and issues' section;
 22/12/2022 - Updated how to recruit Vartans and Pumpkinheads on 'Optimizing Cursed Weapons' (the information about Vartans being found on POTD was wrong as far as i know!);
 21/12/2022 - Added link to cheat engine with Speed Hack for PC users on 'Reference Materials';
